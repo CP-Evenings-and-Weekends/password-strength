@@ -39,3 +39,5 @@ Write a second function `password_report(password)` / `passwordReport(password)`
 password_report("short1!")
 # -> { "length": False, "uppercase": False, "lowercase": True, "digit": True, "symbol": True }
 ```
+
+> Stuck? Have a code error? Use the ["4 Before Me"](https://docs.google.com/document/d/1nseOs5oabYBKNHfwJZNAR7GlU0zkZxNagsw63AD7XV0/edit) debugging checklist to help you solve it!
