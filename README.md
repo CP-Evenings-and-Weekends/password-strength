@@ -1,6 +1,6 @@
 # Password Strength Checker
 
-## Premise
+## Requirements
 
 Write a function `is_strong_password(password)` (Python) / `isStrongPassword(password)` (JS) that returns `True`/`False`.
 
